@@ -1,10 +1,3 @@
-Look, this project for a total amatuer 8th grader who barely knows how to code in python is just crazy.
-Plus, this is my first project so please don't judge harshly on the code.
-To run the project, just download the exe!
-
-Plus no "copy copy" my work <3!
-
-
-
-Too many plus not gonna lie haha...
-
+Look this project for a 8th grader who barely knows how to code is just crazy!
+This is my first "big" project I can say so please don't judge harshly on my code, I know I could have made it a bit more beautiful with OOP.
+To run the project, just download the zip!
